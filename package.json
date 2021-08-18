@@ -100,6 +100,7 @@
     "monitor-event-loop-delay": "^1.0.0",
     "object-filter-sequence": "^1.0.0",
     "object-identity-map": "^1.0.2",
+    "opentelemetry-instrumentation-sequelize": "^0.24.0",
     "original-url": "^1.2.3",
     "pino": "^6.11.2",
     "read-pkg-up": "^7.0.1",
